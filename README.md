@@ -20,7 +20,6 @@ Las dependencias principales son:
 
 Puedes instalarlas usando tu gestor de entornos favorito (`uv`, `poetry`, etc.) o simplemente con pip:
 ```bash
-pip install -r requirements.txt # si lo tienes, o
 pip install mediapipe opencv-python
 ```
 
